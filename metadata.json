@@ -1,0 +1,7 @@
+{
+  "name": "Petanikopiku Partner Registration",
+  "description": "A high-end, 3-step interactive registration platform for coffee farmers to join Petanikopiku, featuring AI assistance and instant WhatsApp integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
